@@ -8,3 +8,16 @@ Don't know how to make an image round? Google it!
 Also, consider how you should select the image 
 (class vs id vs element selector).
 */
+
+body {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+
+#bff-img {
+    width: 300px;
+    border-radius: 50%;
+}
